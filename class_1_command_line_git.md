@@ -12,7 +12,7 @@
 * `.` : Here/This
 * `rm` : Remove 
 * `rm -rf` : Remove all folders and files contained without prompting for confirmation
-* `man` : "Man command" means see Manual for command
+* `man` : "Man command" is god mode
 
 # Basic Git commands
 * `git init` : Initalize git, in a directory
