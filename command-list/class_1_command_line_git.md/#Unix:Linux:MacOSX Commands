@@ -11,7 +11,7 @@
 * `cat` : print on the standard output
 * `.` : this/here
 * `rm` : remove file
-* `rm -rf` :
+* `rm -rf` : remove recursively all folders and files
 * `man` : help manual
 * rmdir : remove folder
 
